@@ -17,3 +17,6 @@ Accessibility -- https://www.accessibility-developer-guide.com/examples/hiding-e
 
 use fieldset, legend radio inputs
 
+
+Why use minified CSS?
+Minification dramatically improves site speed and accessibility, directly translating into a better user experience. It's also beneficial to users accessing your website through a limited data plan and who would like to save on their bandwidth usage while surfing the web.
